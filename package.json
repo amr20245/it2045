@@ -1,0 +1,23 @@
+{
+  "name": "it2045-bmi-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple BMI calculator with three page navigation for the IT 2045 Module 5 assignment.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "keywords": ["BMI", "calculator", "React", "navigation", "IT2045"],
+  "author": "Your Name",
+  "license": "MIT"
+}
